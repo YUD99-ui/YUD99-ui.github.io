@@ -1,0 +1,15 @@
+index.html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Website Simple Saya</title>
+  <style>
+    body { font-family: Arial; text-align: center; background: #f4f4f4; }
+    h1 { color: blue; }
+  </style>
+</head>
+<body>
+  <h1>Selamat Datang 🎉</h1>
+  <p>Ini website simple saya dengan GitHub Pages!</p>
+</body>
+</html>
